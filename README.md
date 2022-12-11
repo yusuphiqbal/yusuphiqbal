@@ -3,7 +3,7 @@
 I am a software engineer with experience in developing web and mobile apps. I excel in every stage of the software development life cycle, including design, coding, debugging, testing and maintenance. I'm an expert in devising innovative and tailored solutions to assist businesses to achieve their goals in a variety of industries.
 
 ### Currently working on
-- Building the most successfull social media platfom in Tanzania
+- Building the best social media platfom in Tanzania
 
 ### 🧑🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
