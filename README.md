@@ -9,6 +9,7 @@ I am a software engineer with experience in developing web and mobile apps. I ex
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Markup & Styling 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -23,6 +24,7 @@ I am a software engineer with experience in developing web and mobile apps. I ex
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
 ![Expo](https://img.shields.io/static/v1?style=for-the-badge&message=Expo&color=000020&logo=Expo&logoColor=FFFFFF&label=)
@@ -49,4 +51,4 @@ I am a software engineer with experience in developing web and mobile apps. I ex
 
 ### Get in Touch
 - Email: [yusuphiqbal21@gmail.com](mailto:yusuphiqbal21@gmail.com)
-- Instagram: [@yusuph_iqbal](https://instagra.com/yusuph_iqbal)
+- Instagram: [@yusuph_iqbal](https://instagram.com/yusuph_iqbal)
