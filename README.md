@@ -1,6 +1,12 @@
 ### Yusuph Iqbal
 
-I am a software engineer with experience in developing web and mobile apps. I excel in every stage of the software development life cycle, including design, coding, debugging, testing and maintenance. I'm an expert in devising innovative and tailored solutions to assist businesses to achieve their goals in a variety of industries.
+Hi, I’m Yusuph Iqbal, a results-driven Software Engineer with over 5 years of experience designing and developing scalable web and mobile applications. I specialize in building robust systems using React, Node.js, Python, and more.
+
+Some of my career highlights include:
+- 🚀 Designed and developed [TotalVFD](https://totalvfd.co.tz/), a Virtual Fiscal Device platform, enabling 1,200+ businesses to streamline TRA compliance.
+- 📱 Built mobile and web apps for logistics, fuel management, and multimedia streaming platforms.
+
+I’m passionate about solving complex problems and delivering user-friendly solutions that drive efficiency and growth. Let’s connect to build something impactful!
 
 ### Currently working on
 - Building the best social media platfom in Tanzania
@@ -45,10 +51,6 @@ I am a software engineer with experience in developing web and mobile apps. I ex
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 
-### 👨🏻‍🎨 UI/UX
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
-
 ### Get in Touch
 - Email: [yusuphiqbal21@gmail.com](mailto:yusuphiqbal21@gmail.com)
-- Instagram: [@yusuph_iqbal](https://instagram.com/yusuph_iqbal)
+- LinkedIn: [@yusuph_iqbal](https://www.linkedin.com/in/yusuphiqbal/)
